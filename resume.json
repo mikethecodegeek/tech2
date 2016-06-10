@@ -1,0 +1,182 @@
+{
+  "basics": {
+    "name": "Michael Sanford",
+    "label": "Full Stack Javascript Developer",
+    "picture": "",
+    "email": "mikethecodegeek@gmail.com",
+    "phone": "(508) 292-1799",
+    "website": "http://www.mikethecodegeek.xyz",
+    "summary": "Full Stack Javascript Developer",
+    "location": {
+      "postalCode": "CA 92093",
+      "city": "San Diego",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Mikethecodegeek",
+        "url": "https://twitter.com/Mikethecodegeek"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "michael-sanford",
+        "url": "https://www.linkedin.com/in/michael-sanford-1180b3115"
+      },
+      {
+        "network": "GitHub",
+        "username": "mikethecodegeek",
+        "url": "https://github.com/mikethecodegeek"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Front End",
+      "level": "Familiar",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Back End",
+      "level": "Familiar",
+      "keywords": [
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Exposure",
+      "keywords": [
+        "Mobile Development",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coding House",
+      "area": "Javascript Development",
+      "studyType": "Intensive 14 Week Live-in Coding Boot Camp",
+      "summary": "Coding using the M.E.A.N stack 14 to 16 hours a day",
+      "startDate": "2016-04-11",
+      "endDate": "2016-07-22",
+      "courses": [
+        "Front End Web Development",
+        "Back End Web Development using NodeJS",
+        "Javascript Libraries and Frameworks"
+      ]
+    },
+    {
+      "institution": "Cape Cod Community College",
+      "area": "Associate in Arts - Computer Science Concentration",
+      "studyType": "Associate",
+      "startDate": "2005-06-01",
+      "endDate": "2008-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Outstanding Attendance",
+      "date": "2011-12-10",
+      "awarder": "Hablitation Assistance"
+    },
+    {
+      "title": "Outstanding Attendance",
+      "date": "2012-12-10",
+      "awarder": "Hablitation Assistance"
+    },
+    {
+      "title": "Outstanding Attendance",
+      "date": "2013-12-10",
+      "awarder": "Hablitation Assistance"
+    },
+    {
+      "title": "Outstanding Attendance",
+      "date": "2014-12-10",
+      "awarder": "Hablitation Assistance"
+    },
+    {
+      "title": "Gumby Award",
+      "date": "2015-12-10",
+      "awarder": "Hablitation Assistance",
+      "summary": "Awarded to 1 employee per year who demonstrates commitment to the company mission and goes above and beyond on a regular basis"
+    }
+  ],
+  "work": [
+    {
+      "company": "Coding House",
+      "position": "Code Mentor",
+      "website": "www.codinghouse.co",
+      "startDate": "2016-06-06",
+      "endDate": "2016-07-22",
+      "summary": "Eat, sleep, dream and live code",
+      "highlights": [
+        "Assist junior students with understanding the concepts of Javascript and Web Development"
+        ]
+    },
+    {
+      "company": "Habilitation Assistance Corporation",
+      "position": "Transporatation Coordinator",
+      "website": "www.habilitationassistance.com",
+      "startDate": "2015-03-01",
+      "endDate": "2016-01-01",
+      "summary": "Habilitation Assistance Corporation’s mission is to support individuals in realizing their personal visions.",
+      "highlights": [
+        "Implemented new safety procedures based off feedback from clients and drivers",
+        "Voluntarily took on extra scheduling responsibilities in the absence of my manager"
+        ]
+    },
+    {
+      "position": "Lead Driver",
+      "startDate": "2014-01-01",
+      "endDate": "2015-03-01",
+      "highlights": [
+        "Awarded for outstanding attendance record",
+        "Awarded the 'Gumby Award', this award is given to one employee per year who goes above and beyond the call of duty and shows dedication to the company mission.",
+        "Promoted to Transportation Coordinator after 1 year of service"
+        ]
+    },
+    {
+      "position": "Driver",
+      "startDate": "2010-09-15",
+      "endDate": "2014-01-01",
+      "highlights": [
+        "Awarded yearly for outstanding attendance",
+        "Promoted Lead Driver position after 3 years of service"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Coding",
+      "keywords": [
+        "Javascript",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Games & Puzzles",
+      "keywords": [
+        "Chess",
+        "Poker",
+        "BlackJack",
+        "Sudoku"
+      ]
+    }
+  ]
+}
